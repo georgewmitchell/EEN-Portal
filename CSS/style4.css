@@ -5,9 +5,17 @@ aside{
     float: right;
     background-color: grey;
     border: 50px;
-    font-size: 10pt
-        
+    font-size: 10pt;
+    margin-left: 800px;
+    height: 200px;
+    width: 100px;
+
 }
 section{
-    align-items: center;
+    align-items: right;
+    margin-left: 20px;
+}
+body{
+  background-color: grey;
+  font-size: small;
 }
